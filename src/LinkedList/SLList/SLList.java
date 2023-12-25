@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.SLList;
 
 public class SLList<T> {
     private Node<T> sentinel;

@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.SLList;
 
 import org.junit.Before;
 import org.junit.Test;
